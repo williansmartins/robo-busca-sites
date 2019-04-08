@@ -1,0 +1,23 @@
+{
+  "name": "robo-busca-sites",
+  "version": "1.0.0",
+  "description": "Projeto poc para fazer buscas no google através de links e imagens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williansmartins/robo-busca-sites.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williansmartins/robo-busca-sites/issues"
+  },
+  "homepage": "https://github.com/williansmartins/robo-busca-sites#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.9"
+  }
+}
